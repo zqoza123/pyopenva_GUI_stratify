@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyqt5 = "*"
+pyqtwebengine = "*"
+pycrossva = ">=0.97"
+interva = "*"
+vacheck = "==0.0.2"
+insilicova = {git = "https://github.com/verbal-autopsy-software/pyinsilicova"}
+matplotlib = "==3.6.3"
+sphinx  = "*"
+pandas = "==2.0.3"
+sphinxemoji = "*"
+cx-freeze = "*"
